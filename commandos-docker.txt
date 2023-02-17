@@ -4,3 +4,6 @@ docker compose exec app bash
 
 Comando para criar o arquivo tsconfig.json:
 > npx tsc --init
+
+Comando para criar o arquivo jest.config.js:
+> npx jest --init
