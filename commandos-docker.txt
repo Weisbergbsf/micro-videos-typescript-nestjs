@@ -1,3 +1,6 @@
 docker compose up --build
 
 docker compose exec app bash
+
+Comando para criar o arquivo tsconfig.json:
+> npx tsc --init
